@@ -1,0 +1,14 @@
+.nav-children {
+    width: inherit;
+    height: 44px;
+    line-height: 44px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: #5C5C5C solid 1px;
+}
+.text-navbar {
+    margin:0 0 0 16px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFF
+}
